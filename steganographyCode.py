@@ -1,6 +1,5 @@
 import cv2
 import os
-import string
 
 img=cv2.imread("mypic.jpg")
 msg=input("enter secert message")
